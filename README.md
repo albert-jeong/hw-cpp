@@ -1,2 +1,2 @@
-# cpp-assignment
-CPP Assignment (So. Spring, C++)
+# hw-cpp
+Homework CPP (So. Spring, C++)
